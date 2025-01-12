@@ -1,1 +1,1 @@
-# Robust-Speech-Emotion-Recognition-Across-Multiple-Datasets-Using-LSTM-Networks
+# Speech-Emotion-Recognition-Across-Multiple-Datasets-Using-LSTM-Networks
